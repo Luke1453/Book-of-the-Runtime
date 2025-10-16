@@ -4,7 +4,7 @@ The Book of the Runtime (BOTR) for the .NET Runtime.
 Combined articles from the official [CoreCLR repo](https://github.com/dotnet/coreclr/tree/master/Documentation/botr) about the non-trivial internals of the .NET Runtime.
 It is available in EPUB format.
 
-The ebook is created manually by combining the articles using [pandoc](https://github.com/jgm/pandoc).
+The ebook is created manually by combining the articles using [pandoc](https://github.com/jgm/pandoc).  
 NB! Links are broken in the EPUB file.
 
 This is the ebook conversion process:
